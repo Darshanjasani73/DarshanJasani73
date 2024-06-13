@@ -1,4 +1,4 @@
-### Hi 👋, I'm Darshan Jasani, a Final Year B.E. student 🎓 passionate about Web 🌐 and Native App Development 📱.
+### Hi 👋, I'm Darshan Jasani, a Final Year B.E. student 🎓 passionate about Web Development 📱.
 
 # 💫 About Me:
 🔭 Right now, I'm working hard to improve my development skills. I'm focusing on getting better at different programming languages, frameworks, and tools.<br>👯 I’m looking to collaborate on open-source projects related to Native Apps development  or web development.<br>🤝 I’m looking for help with understanding advanced Backend Development and SSR, SEO-friendly Web Dev with NextJS.<br>🌱 I’m currently learning Redux Toolkit and Typescript.<br>💬 Wondering about the newest in development trends and programming languages? Feel free to ask! We can explore the latest tech advancements and updates together.<br>📫 Reach me at: djasani93@gmail.com<br>⚡ Fun fact: The world's first website was created by Tim Berners-Lee in 1991 at CERN. It was dedicated to information on the World Wide Web project and provided instructions on how to create web pages. The site is still live today at http://info.cern.ch.
